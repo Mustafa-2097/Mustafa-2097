@@ -6,7 +6,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Flutter+Developer;Cross+Platform+Mobile+App+Developer;CSE+Graduate;Building+Scalable+Mobile+Apps;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Flutter+Developer;Cross+Platform+Mobile+App+Developer;CSE+Graduate;Building+Scalable+Mobile+Apps"/>
 
 </p>
 
@@ -17,51 +17,51 @@
 
 ---
 
-# 👨‍💻 About Me
+## About Me
 
 Hi, I'm **Asekay Mustafa**, a passionate **Junior Flutter Developer** focused on building modern and scalable mobile applications.
 
-🎓 **BSc in Computer Science & Engineering**
+. **BSc in Computer Science & Engineering**
 Premier University, Chattogram
 
-💼 **Jr. Flutter Developer — Betopia Group**
+. **Jr. Flutter Developer — Betopia Group**
 
-🧑‍💻 Former **Mobile App Development Intern — Stamasoft Technologies**
+. Former **Mobile App Development Intern — Stamasoft Technologies**
 
-I enjoy solving real-world problems through technology and building high-quality cross-platform applications.
+I build MVP mobile application for both Android and iOS platform.
 
 ---
 
-# 🚀 What I Do
+## What I Do
 
-📱 Cross-platform Mobile App Development (Android & iOS)
+. Cross-platform Mobile App Development (Android & iOS)
 
-⚡ State Management
+. State Management
 GetX • BLoC • Cubit
 
-🗄️ Offline Storage
+. Offline Storage
 SQLite • Hive • Shared Pref
 
-🔥 Realtime Backend
+. Realtime Backend
 Firebase Firestore
 
-🔗 REST API Integration
+. REST API Integration
 
-🚀 App Deployment
+. App Deployment
 Google Play Store • Apple App Store
 
 ---
 
-# 🧠 Currently Learning
+## Currently Learning
 
-🚀 Advanced Flutter Architecture
-⚡ Clean Architecture
-🔥 Performance Optimization
-📦 Scalable State Management
+. Advanced Flutter Architecture
+. Clean Architecture
+. Performance Optimization
+. Scalable State Management
 
 ---
 
-# 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
 
@@ -71,7 +71,7 @@ Google Play Store • Apple App Store
 
 ---
 
-# 🚀 Featured Flutter Projects
+## Featured Flutter Projects
 
 | Project           | Description                        | Tech              |
 | ----------------- | ---------------------------------- | ----------------- |
@@ -81,7 +81,7 @@ Google Play Store • Apple App Store
 
 ---
 
-# 📱 App Screenshots
+## App Screenshots
 
 <p align="center">
 
@@ -93,16 +93,17 @@ Google Play Store • Apple App Store
 
 ---
 
-# 🎯 2026 Goals
+## 2026 Goals
 
-✔ Build production-level Flutter apps
-✔ Publish apps on Play Store & App Store
-✔ Contribute to open-source projects
 ✔ Master advanced Flutter architecture
+✔ Publish apps on Play Store & App Store
+✔ Build production-level Flutter apps
+✔ Contribute to open-source projects
+
 
 ---
 
-# 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
 
@@ -120,13 +121,13 @@ Google Play Store • Apple App Store
 
 ---
 
-# 📈 Contribution Graph
+## Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mustafa-2097&theme=tokyo-night"/>
 
 ---
 
-# 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
 
@@ -136,7 +137,7 @@ Google Play Store • Apple App Store
 
 ---
 
-# 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
 
@@ -172,7 +173,7 @@ Google Play Store • Apple App Store
 
 ---
 
-# ✨ Dev Quote
+## Dev Quote
 
 <p align="center">
 

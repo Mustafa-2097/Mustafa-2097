@@ -21,12 +21,12 @@
 
 Hi, I'm **Asekay Mustafa**, a passionate **Junior Flutter Developer** focused on building modern and scalable mobile applications.
 
-. **BSc in Computer Science & Engineering**
+• **BSc in Computer Science & Engineering**
 Premier University, Chattogram
 
-. **Jr. Flutter Developer — Betopia Group**
+• **Jr. Flutter Developer — Betopia Group**
 
-. Former **Mobile App Development Intern — Stamasoft Technologies**
+• Former **Mobile App Development Intern — Stamasoft Technologies**
 
 I build MVP mobile application for both Android and iOS platform.
 
@@ -34,30 +34,32 @@ I build MVP mobile application for both Android and iOS platform.
 
 ## What I Do
 
-. Cross-platform Mobile App Development (Android & iOS)
+• Cross-platform Mobile App Development (Android & iOS)
 
-. State Management
+• State Management -
 GetX • BLoC • Cubit
 
-. Offline Storage
+• Offline Storage -
 SQLite • Hive • Shared Pref
 
-. Realtime Backend
+• Realtime Backend
 Firebase Firestore
 
-. REST API Integration
+• REST API Integration
 
-. App Deployment
+• AI Integration
+
+• App Deployment -
 Google Play Store • Apple App Store
 
 ---
 
 ## Currently Learning
 
-. Advanced Flutter Architecture
-. Clean Architecture
-. Performance Optimization
-. Scalable State Management
+• Advanced Flutter Architecture
+• Clean Architecture
+• Performance Optimization
+• Scalable State Management
 
 ---
 
@@ -147,7 +149,7 @@ Google Play Store • Apple App Store
 
 ---
 
-# ⚡ Developer Activity
+## Developer Activity
 
 <p align="center">
 
@@ -157,7 +159,7 @@ Google Play Store • Apple App Store
 
 ---
 
-# 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
 
